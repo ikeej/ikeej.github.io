@@ -1,14 +1,14 @@
-<svg width="580" height="400" xmlns="http://www.w3.org/2000/svg">
+<svg width="300" height="155" xmlns="http://www.w3.org/2000/svg">
  <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
  <g>
   <title>background</title>
-  <rect fill="#000000" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+  <rect fill="#000000" id="canvas_background" height="157" width="302" y="-1" x="-1"/>
   <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
    <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
   </g>
  </g>
  <g>
   <title>Layer 1</title>
-  <text stroke="#000" transform="matrix(8.094458143695363,0,0,8.094458143695363,-717.2566574211846,-680.5811671687279) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_1" y="116.838167" x="94.751106" stroke-width="0" fill="#ffffff">KEEJ</text>
+  <text stroke="#000" transform="matrix(4.531093599459384,0,0,4.531093599459384,-398.7537863316988,-344.9559048649687) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_1" y="101.527092" x="90.991363" stroke-width="0" fill="#ffffff">KEEJ</text>
  </g>
 </svg>
